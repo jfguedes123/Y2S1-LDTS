@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ldts.pacman.GameTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-23T19:33:16" hostname="joao-guedes" time="3.502">
+  <properties/>
+  <testcase name="start()" classname="com.ldts.pacman.GameTest" time="3.465"/>
+  <testcase name="setState()" classname="com.ldts.pacman.GameTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

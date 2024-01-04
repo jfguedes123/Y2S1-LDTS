@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ldts.pacman.commands.game.menu.MainMenuCommandTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-23T19:33:20" hostname="joao-guedes" time="0.002">
+  <properties/>
+  <testcase name="stepUpInput()" classname="com.ldts.pacman.commands.game.menu.MainMenuCommandTest" time="0.001"/>
+  <testcase name="stepSelectInputExit()" classname="com.ldts.pacman.commands.game.menu.MainMenuCommandTest" time="0.0"/>
+  <testcase name="stepDownInput()" classname="com.ldts.pacman.commands.game.menu.MainMenuCommandTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

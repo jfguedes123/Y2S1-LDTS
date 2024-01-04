@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ldts.pacman.graphics.LanternaTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-23T19:33:20" hostname="joao-guedes" time="0.039">
+  <properties/>
+  <testcase name="drawBackground()" classname="com.ldts.pacman.graphics.LanternaTest" time="0.037"/>
+  <testcase name="drawText()" classname="com.ldts.pacman.graphics.LanternaTest" time="0.0"/>
+  <testcase name="drawPacMan()" classname="com.ldts.pacman.graphics.LanternaTest" time="0.0"/>
+  <testcase name="refresh()" classname="com.ldts.pacman.graphics.LanternaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
